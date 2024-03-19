@@ -1,2 +1,2 @@
 # FakeOS
-First Day : trying to desing the OS
+First Day : trying to design the OS background
